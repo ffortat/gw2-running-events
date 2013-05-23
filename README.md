@@ -1,0 +1,1 @@
+Lists GW2 running events per World/Region/Map

@@ -1,0 +1,15 @@
+li.Active {
+	background : #ffff00;
+}
+
+li.Preparation {
+	background : #ff6600;
+}
+
+li.Success {
+	background : #00ff00;
+}
+
+li.Fail {
+	background : #ff0000;
+}
